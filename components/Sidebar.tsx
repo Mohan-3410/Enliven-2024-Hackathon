@@ -7,18 +7,11 @@ import { usePathname } from "next/navigation";
 
 import { cn } from "@/lib/utils";
 import {
-  BugIcon,
   ClubIcon,
-  CodeIcon,
   HopIcon,
-  ImageIcon,
   LayoutDashboard,
-  LeafIcon,
-  MessageSquare,
-  MusicIcon,
   SettingsIcon,
   TentIcon,
-  VideoIcon,
 } from "lucide-react";
 
 const montserrat = Montserrat({
